@@ -16,12 +16,15 @@ events      :
 ---
 Photobox Group Security, working with OWASP London Chapter, is hosting a number of working sessions to continue the great work done at the Summit and to collaborate/share our knowledge in important Application Security topics.
 
-#### The next event will focus on the following Working Sessions:
+#### The next Working Session will focus on [GDPR Patents] (https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
 
-  - [Playbook common format](https://owaspsummit.org/Outcomes/Playbooks/Playbooks-Common-Format.html)
+As companies prepare for GDPR's May deadline, in addition to the questions and topics raised at the GDPR sessions during the Summit, one area that has multiple Application Security implications is consent and consent tracking (i.e. how to capture in a secure way the exact consents that users have provided).
+
+Future session topics: 
+
+- [Playbook common format](https://owaspsummit.org/Outcomes/Playbooks/Playbooks-Common-Format.html)
   Continuing the great work done at the Summit on Playbooks, this session will focus on Incident Response and how to improve the quality, speed and effectiveness of incident response teams (by using pre-defined playbooks and decision trees to guide actions, remediations and root cause analysis)
-  - [GDPR](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
-  As companies prepare for GDPR's May deadline, in addition to the questions and topics raised at the GDPR sessions during the Summit, one area that has multiple Application Security implications is consent and consent tracking (i.e. how to capture in a secure way the exact consents that users have provided).
+
   -  [Threat Modeling](https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Where-do-I-Start.html)
   What are the relationships and opportunities between TM and Agile, Incident Response, SecOps, and AppSec. In practical terms, where can TM add value?
   
